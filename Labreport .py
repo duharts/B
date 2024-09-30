@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 
 # Add the Green Analytics logo to the header and center it
-logo_url = "https://www.greenanalyticsllc.com/logo.png"
+logo_url = "https://greenanalyticslabs.com/wp-content/uploads/2024/03/Green-Analytics-Logo.webp"
 st.markdown(
     f"""
     <div style='text-align: center;'>
